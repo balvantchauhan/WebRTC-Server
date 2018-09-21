@@ -13,8 +13,8 @@ The client is built with [angularjs](https://angularjs.org/).
 
 It requires [node.js](http://nodejs.org/download/)
 
-* git clone https://github.com/pchab/ProjectRTC.git
-* cd ProjectRTC/
+* git clone https://github.com/balwant108/WebRTC-Server
+* cd WebRTC-Server/
 * npm install
 * npm start
 
