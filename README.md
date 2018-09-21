@@ -3,8 +3,7 @@
 ## WebRTC Live Streaming
 
 - Node.js server
-- Desktop client
-- [Android client](https://github.com/pchab/AndroidRTC)
+- [Android client](https://github.com/balwant108/WebRTC-Android)
 - [iOS client](https://github.com/balwant108/WebRTC-iOS)
 
 The signaling part is done with [socket.io](socket.io).
