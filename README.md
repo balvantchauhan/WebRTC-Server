@@ -1,4 +1,4 @@
-# ProjectRTC
+# WebRTC-Server
 
 ## WebRTC Live Streaming
 
@@ -20,6 +20,3 @@ It requires [node.js](http://nodejs.org/download/)
 
 The server will run on port 8443.
 You can test it in the Firefox, Chrome, or Safari and visit https://localhost:8443.
-## Author
-
-- [Pierre Chabardes](mailto:pierre@chabardes.net)
