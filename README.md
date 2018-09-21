@@ -5,6 +5,7 @@
 - Node.js server
 - Desktop client
 - [Android client](https://github.com/pchab/AndroidRTC)
+- [iOS client](https://github.com/pchab/AndroidRTC)
 
 The signaling part is done with [socket.io](socket.io).
 The client is built with [angularjs](https://angularjs.org/).
